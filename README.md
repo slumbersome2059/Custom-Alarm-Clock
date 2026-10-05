@@ -1,2 +1,2 @@
-<video src="setup_video.mp4" controls width="100%"></video>
+<video src="https://github.com/slumbersome2059/Custom-Alarm-Clock/blob/main/setup_video.mp4" controls></video>
 
